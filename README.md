@@ -7,3 +7,8 @@ Steps to run the notebook:
   * voila!
 
  
+Analysis Highlights to look at:
+
+![image](https://github.com/siddhant81/doordash_spend_analysis/assets/22120715/b66c83cf-b065-41bb-af20-b430091b8de3)
+![image](https://github.com/siddhant81/doordash_spend_analysis/assets/22120715/c6303066-ff5b-4843-98c6-6300b76b8cf4)
+![image](https://github.com/siddhant81/doordash_spend_analysis/assets/22120715/52edc450-73f1-49bf-ba77-97ed7268c886)
